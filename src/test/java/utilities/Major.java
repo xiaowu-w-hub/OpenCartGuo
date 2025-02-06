@@ -1,0 +1,1 @@
+package utilities;import org.testng.annotations.Test;public class Major {    public String[][]  test1(){        String[][] a= new String[2][3];        return a;    }}

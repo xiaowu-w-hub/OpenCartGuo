@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="017a0e61-e91f-40c5-963f-5158f3d44398" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2rMsMJhyAkTh8Ds5SmSIn2aPWVB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code-practice/Guo/OpenCartGuo&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code-practice\Guo\OpenCartGuo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/code-practice/Guo/OpenCartGuo/src/test/resources/docker-compose.yaml">
+    <configuration name="D:/code-practice/Guo/OpenCartGuo/TC002.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpenCartGuo" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TC002.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/code-practice/Guo/OpenCartGuo/grid-docker.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpenCartGuo" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/grid-docker.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/code-practice/Guo/OpenCartGuo/groupsTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpenCartGuo" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/groupsTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/code-practice/Guo/OpenCartGuo/masterTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpenCartGuo" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/masterTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/code-practice/Guo/OpenCartGuo/src/test/resources/docker-compose.yaml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpenCartGuo" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/docker-compose.yaml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC001_AccountRegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpenCartGuo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testBase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testCases" />
+      <option name="MAIN_CLASS_NAME" value="testCases.TC001_AccountRegistrationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/code-practice/Guo/OpenCartGuo/src/test/resources/docker-compose.yaml" />
+        <item itemvalue="TestNG.D:/code-practice/Guo/OpenCartGuo/masterTest.xml" />
+        <item itemvalue="TestNG.D:/code-practice/Guo/OpenCartGuo/grid-docker.xml" />
+        <item itemvalue="TestNG.D:/code-practice/Guo/OpenCartGuo/TC002.xml" />
+        <item itemvalue="TestNG.D:/code-practice/Guo/OpenCartGuo/groupsTest.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="017a0e61-e91f-40c5-963f-5158f3d44398" name="Changes" comment="" />
+      <created>1736380235660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736380235660</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/testCases/TC003_LoginDDT.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

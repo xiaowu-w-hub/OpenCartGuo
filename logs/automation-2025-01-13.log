@@ -1,0 +1,54 @@
+21:38:11.345 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ----Test is finished..-----
+21:40:28.051 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\34339\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml"
+21:40:28.224 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\34339\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+21:41:08.310 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\code-practice\Guo\OpenCartGuo\crossBrowsertest.xml"
+21:41:08.485 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\code-practice\Guo\OpenCartGuo\crossBrowsertest.xml
+
+21:41:14.176 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - --------starting TC001_AccountRegistrationTest--------
+21:41:16.001 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - --------starting TC001_AccountRegistrationTest--------
+21:41:25.464 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked my account link....
+21:41:26.435 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked my register link....
+21:41:31.750 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - clicked my account link....
+21:41:33.285 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - clicked my register link....
+21:41:36.142 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - started verify message...
+21:41:37.390 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ----Test is finished..-----
+21:41:43.917 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - started verify message...
+21:41:45.260 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ----Test is finished..-----
+21:43:07.738 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\code-practice\Guo\OpenCartGuo\crossBrowsertest.xml"
+21:43:07.914 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\code-practice\Guo\OpenCartGuo\crossBrowsertest.xml
+
+21:43:13.338 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - --------starting TC001_AccountRegistrationTest--------
+21:43:16.950 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - --------starting TC001_AccountRegistrationTest--------
+21:43:26.905 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked my account link....
+21:43:28.602 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked my register link....
+21:43:31.197 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - clicked my account link....
+21:43:36.880 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - started verify message...
+21:43:37.998 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ----Test is finished..-----
+21:57:04.407 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\34339\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml"
+21:57:04.586 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\34339\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+21:58:22.414 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\code-practice\Guo\OpenCartGuo\crossBrowsertest.xml"
+21:58:22.602 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\code-practice\Guo\OpenCartGuo\crossBrowsertest.xml
+
+21:58:27.389 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - --------starting TC001_AccountRegistrationTest--------
+21:58:27.622 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked my account link....
+21:58:29.403 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - --------starting TC001_AccountRegistrationTest--------
+21:58:29.516 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - clicked my account link....
+21:58:31.517 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - --------starting TC001_AccountRegistrationTest--------
+21:58:31.995 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - clicked my account link....
+22:36:57.625 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\code-practice\Guo\OpenCartGuo\crossBrowsertest.xml"
+22:36:57.848 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\code-practice\Guo\OpenCartGuo\crossBrowsertest.xml
+
+22:37:07.105 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - --------starting TC001_AccountRegistrationTest--------
+22:37:07.182 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - clicked my account link....
+22:37:08.063 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - clicked my register link....
+22:37:08.905 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - --------starting TC001_AccountRegistrationTest--------
+22:37:09.160 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - clicked my account link....
+22:37:09.564 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - --------starting TC001_AccountRegistrationTest--------
